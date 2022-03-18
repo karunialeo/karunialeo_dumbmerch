@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "root",
     "database": "course-express",
     "host": "localhost",
     "port": "8889",
